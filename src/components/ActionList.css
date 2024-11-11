@@ -1,0 +1,39 @@
+.card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    justify-content: space-between;
+  }
+  
+  h3 {
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .action-item {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    margin-bottom: 8px;
+  }
+  
+  .add-btn {
+    background: #28a745;
+    color: white;
+    padding: 4px 8px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: medium;
+  }
+
+  .action-name{
+    text-align: left;
+  }
+
+  .carbonReduction{
+    text-align: end;
+  }

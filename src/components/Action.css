@@ -1,0 +1,36 @@
+.tracked-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 0;
+    border-bottom: 1px solid #eaeaea;
+    font-size: medium;
+  }
+  
+  /* .delete-btn {
+    background: transparent;
+    color: #dc3545;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+  } */
+  
+  .subtract-btn {
+    background: #ffc107;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-right: 4px;
+  }
+  
+  .delete-btn {
+    background: #fe5666;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+  

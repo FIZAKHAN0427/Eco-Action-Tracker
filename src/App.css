@@ -1,0 +1,38 @@
+/* .main{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+} */
+
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+h1 {
+  font-weight: bold;
+  color: #222;
+  text-align: top center;
+  padding: 25px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  
+}

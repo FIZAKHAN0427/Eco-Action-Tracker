@@ -1,0 +1,56 @@
+.impact-summary {
+    width: 600px;
+  }
+  
+  .clear-btn {
+    background: #dc3545;
+    color: white;
+    padding: 4px 8px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: medium;
+  }
+  
+  .total {
+    background-color: #333;
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: medium;
+  }
+  
+  .tree-message {
+    font-size: medium;
+    
+  }
+
+  .certificate-btn {
+    background: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+  
+  .certificate {
+    width: 600px;
+    padding: 20px;
+    border: 2px solid #4caf50;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .certificate h2 {
+    color: #4caf50;
+    margin-bottom: 10px;
+  }
+  
